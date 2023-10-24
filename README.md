@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Danilo Flores
+- 👀 I’m interested in web development and photography
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate with senior software engineers
