@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Danilo Flores
-- 👀 I’m interested in web development and photography
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate with senior software engineers
+- 👋 Hi, I'm Danilo Flores
+- 🧑 I'm from Philippines and am 19 years old
+- 👀 I'm interested in web development and photography
+- 🌱 I'm currently learning Web3 and Blockchain
+- 💞️ I'm looking to collaborate with senior software engineers
